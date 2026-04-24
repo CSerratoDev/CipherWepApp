@@ -1,5 +1,4 @@
-
-## test# CipherLab — César & Vigenère
+# CipherLab — César & Vigenère
 
 Aplicación web que implementa los cifrados clásicos **César** y **Vigenère**, con los algoritmos portados directamente desde C++ a TypeScript.
 
